@@ -16,3 +16,29 @@
 #### Heading level 4	
 ##### Heading level 5	
 ###### Heading level 6	
+
+# Listed Commands
+
+## a) Check the status of a local repository.
+### git status
+
+## b) Add individual files or globally. 
+### git add
+
+## c) Add comments to the commit.
+### -m
+
+## d) Upload your changes to the remote repository. 
+### git push
+
+## e) Create, browse, and delete branches. 
+### Create: git branch
+### Browse: git branch --all
+### Delete: git branch -d localBranchName
+
+## f) Roll back a repository to a specific commit. 
+### git reset or git revert
+
+
+
+
